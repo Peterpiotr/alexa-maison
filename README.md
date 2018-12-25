@@ -4,4 +4,8 @@ depuis VS code
 test blabla
 etc etc
 et patati
+<<<<<<< HEAD
 machin
+=======
+et patatA
+>>>>>>> acb308118adba87566f2bed92409106ad86538e2
